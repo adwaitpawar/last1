@@ -1,0 +1,10 @@
+steps:
+- task: SqlAzureDacpacDeployment@1
+  displayName: 'Azure SQL DacpacTask'
+  inputs:
+    azureSubscription: 'Free Trial (0ecb64a1-bd44-41c0-a184-d8051f534dbf)'
+    ServerName: django13.database.windows.net
+    DatabaseName: EmployeeDB
+    SqlUsername: '$(login)'
+    SqlPassword: '$(password)'
+    DacpacFile: '$(System.DefaultWorkingDirectory)/_adwaitpawar_last1/Employee3DB.dacpac'
