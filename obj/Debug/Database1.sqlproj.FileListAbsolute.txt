@@ -1,0 +1,10 @@
+D:\LAST1\Database1\bin\Debug\Database1.dacpac
+D:\LAST1\Database1\bin\Debug\Database1.dll
+D:\LAST1\Database1\bin\Debug\Database1.pdb
+D:\LAST1\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+D:\LAST1\Database1\obj\Debug\Model.xml
+D:\LAST1\Database1\obj\Debug\refactor.xml
+D:\LAST1\Database1\obj\Debug\postdeploy.sql
+D:\LAST1\Database1\obj\Debug\predeploy.sql
+D:\LAST1\Database1\obj\Debug\Database1.dll
+D:\LAST1\Database1\obj\Debug\Database1.pdb
