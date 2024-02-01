@@ -30,7 +30,7 @@ steps:
 - task: SqlAzureDacpacDeployment@1
   displayName: 'Execute Azure SQL : DacpacTask'
   inputs:
-    azureSubscription: 'new'
+    azureSubscription: 'new1'
     ServerName: 'adwaits-server.database.windows.net'
     DatabaseName: 'EmployeeDB'
     SqlUsername: 'adwait'
